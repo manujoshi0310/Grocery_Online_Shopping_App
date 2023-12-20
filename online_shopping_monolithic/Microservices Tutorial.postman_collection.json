@@ -308,7 +308,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"name\":\"Olive Oil\",\n    \"desc\":\"great Quality of Oil\",\n    \"type\":\"oils\",\n    \"banner\":\"http://codergogoi.com/youtube/images/oliveoil.jpg\",\n    \"unit\":1,\n    \"price\":400, \n    \"available\":true,\n    \"suplier\":\"Golden seed firming\"\n}",
+							"raw": "{\n    \"name\":\"Olive Oil\",\n    \"desc\":\"great Quality of Oil\",\n    \"type\":\"oils\",\n    \"banner\":\"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Folive-oil&psig=AOvVaw3KpfelsqJffLIrChNZN_TD&ust=1702736588215000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj3jqTSkYMDFQAAAAAdAAAAABAD\",\n    \"unit\":1,\n    \"price\":400, \n    \"available\":true,\n    \"suplier\":\"Golden seed firming\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
